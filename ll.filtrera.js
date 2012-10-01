@@ -4,7 +4,7 @@ jQuery.extend(jQuery.expr[":"], { "contains-ci": function(elem, i, match, array)
 
 $(function() {
         
-    // Attributes
+    // Parameters
     var outer = 'table';        
     var inner = 'tr';
     var select = 'li.active';
@@ -12,7 +12,7 @@ $(function() {
     var exclusive = false; // 'true' for exclusive filtering
     
     
-    // No need to edit below
+    // No need to edit below unless looking to change functionality
     var minChar = 1;
     var str,array,target,x,y,z,clone,suggestion;
     
