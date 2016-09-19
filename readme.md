@@ -1,7 +1,7 @@
-#ll.filtrera.js
+# ll.filtrera.js
 
     By: Lundgren+Lindqvist
-    http://dev.lundgrenlindqvist.se
+    http://lundgrenlindqvist.se/developent
 
 ## Introduction
 
@@ -19,7 +19,7 @@ Please not that this version of the script can still require a bit of editing yo
 
 ## Demo
 
-http://dev.lundgrenlindqvist.se/scripts/filtrera/
+http://lundgrenlindqvist.se/scripts/filtrera/
 
 ## Additional features
 
